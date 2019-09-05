@@ -1,6 +1,7 @@
 # 概要
-* <a href="https://qotb26xu9ecnlzqyisiybq-on.drv.tw/www/MapDemo/mapdemo.html" target="_blank">連結：地圖展示 WebPlayer (IE 啟用ActiveX)</a>
-* <a href="https://youtu.be/aBdoGCPtTf4" target="_blank">連結：YouTube影片</a>
+* [連結：地圖 WebGL](https://juicefish.github.io/MapDemoWebGL/index.html)
+* [連結：地圖 WebPlayer (IE 啟用ActiveX)](https://juicefish.github.io/MapDemoWebPlayer/MapDemoWebPlayer.html)
+* [連結：YouTube影片](https://youtu.be/aBdoGCPtTf4)
 * 世界地圖操作(展示用)
 * 圖片來源取自於網路，呈現品質可能較差，不影響主要功能
 
